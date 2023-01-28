@@ -5,12 +5,17 @@ contributor:
     agent_name: Adams, Bruce
     gutenberg_agent_id: '55388'
     url: http://www.gutenberg.org/2009/agents/55388
+covers:
+- cover_type: archival
+  image_path: 69718-h/images/cover.jpg
 creator:
   author:
     agent_name: Bittinger, Marillis
     gutenberg_agent_id: '55387'
     url: http://www.gutenberg.org/2009/agents/55387
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69718#Tall-tales-of-Cape-Cod
 gutenberg_issued: '2023-01-06'
 identifiers:
   gutenberg: '69718'
